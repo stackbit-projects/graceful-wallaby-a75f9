@@ -15,7 +15,7 @@
             "title": "Catalogo",
             "url": "/store",
             "style": "link",
-            "arrow": true
+            "arrow": false
         },
         {
             "title": "Sobre nosotros",
