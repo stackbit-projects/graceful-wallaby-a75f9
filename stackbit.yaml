@@ -607,3 +607,5 @@ models:
     label: login
     layout: login
     hideContent: true
+    singleInstance: true
+    file: ''
