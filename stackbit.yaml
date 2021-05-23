@@ -606,3 +606,4 @@ models:
     type: page
     label: login
     layout: login
+    hideContent: true
