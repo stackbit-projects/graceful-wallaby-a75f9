@@ -45,7 +45,7 @@ sections:
     section_id: promotion_section
     title: Saca tu turno ahora
     subtitle: from $149.99
-    image: images/photo-1590540179852-2110a54f813a.jpg
+    image: images/103415204_3058766594203155_3155016059337296175_n.jpg
     background_image: images/leaf.svg
     cta:
       title: Quiero mi turno
