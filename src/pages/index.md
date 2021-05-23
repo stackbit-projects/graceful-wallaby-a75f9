@@ -55,7 +55,7 @@ sections:
     image: images/photo-1590540179852-2110a54f813a.jpg
     background_image: images/leaf.svg
     cta:
-      title: Discover
+      title: Quiero mi turno
       url: /store
       style: secondary
       arrow: true
