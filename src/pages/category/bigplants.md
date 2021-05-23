@@ -1,5 +1,5 @@
 ---
-title: Mas ...
+title: Recortes
 order: 1
 seo:
   title: Big plants
