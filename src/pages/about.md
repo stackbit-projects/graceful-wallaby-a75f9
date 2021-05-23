@@ -11,7 +11,13 @@ sections:
     section_id: bulletpoints_section
     bulletpoints:
       - title: Cortes
-        description: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n\n"
+        description: >+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+          vehicula tellus quis malesuada varius. Proin accumsan fermentum augue
+          vitae consequat. Etiam ut augue rhoncus, blandit risus et, efficitur
+          nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Pellentesque quis nunc et urna pellentesque rhoncus quis ut sapien.
+
         image: images/69168179_2427914050621749_4586023906661367808_n.jpg
       - title: Nuestro equipo
         description: >+
