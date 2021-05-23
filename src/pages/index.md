@@ -9,7 +9,7 @@ sections:
     content: |
       # Barberia Lorentino
 
-      Solicita tu turnos #covid
+      Solicita tu turno #covid
     actions:
       - title: Ver catalogo
         url: /store
