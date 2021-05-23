@@ -607,3 +607,6 @@ models:
     label: login
     layout: login
     hideContent: true
+    fields:
+      - name: ''
+        type: string
