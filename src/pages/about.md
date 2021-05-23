@@ -37,7 +37,6 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Saca tu turno ahora
-    subtitle: f
     image: images/103415204_3058766594203155_3155016059337296175_n.jpg
     background_image: images/favicon.png
     cta:
