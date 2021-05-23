@@ -609,5 +609,6 @@ models:
     hideContent: true
     fields:
       - name: test
-        type: string
+        type: model
         required: true
+        models: []
