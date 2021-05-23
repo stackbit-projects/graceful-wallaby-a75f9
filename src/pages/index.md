@@ -50,7 +50,7 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Saca tu turno ahora
     subtitle: from $149.99
     image: images/photo-1590540179852-2110a54f813a.jpg
     background_image: images/leaf.svg
