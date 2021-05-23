@@ -620,4 +620,5 @@ models:
     fields:
       - name: ''
         type: model
-        models: []
+        models:
+          - action
