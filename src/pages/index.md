@@ -37,7 +37,6 @@ sections:
     testimonials:
       - author:
           name: Mariel avila
-          location: 'Colorado, USA'
         text: Son unos genios.. me encanta como cortan
       - author:
           name: Major Payne
