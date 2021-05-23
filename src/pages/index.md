@@ -36,7 +36,7 @@ sections:
     title: Testimonios
     testimonials:
       - author:
-          name: John Dope
+          name: Mariel avila
           location: 'Colorado, USA'
         text: Son unos genios.. me encanta como cortan
       - author:
