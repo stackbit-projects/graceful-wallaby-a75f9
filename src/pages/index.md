@@ -45,7 +45,7 @@ sections:
     section_id: promotion_section
     title: Saca tu turno ahora
     image: images/103415204_3058766594203155_3155016059337296175_n.jpg
-    background_image: images/35973358_1778892505523910_4437442193115840512_n.jpg
+    background_image: images/favicon.png
     cta:
       title: Quiero mi turno
       url: /store
