@@ -3,7 +3,7 @@ id: '2'
 title: Integer porta
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/79673166_2669599963119822_7793317441056014336_n.jpg
-default_original_image: images/plant2-lg.jpg
+default_original_image: images/79673166_2669599963119822_7793317441056014336_n.jpg
 order: 2
 category: src/pages/category/cactuses.md
 seo:
