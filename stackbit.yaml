@@ -613,3 +613,7 @@ models:
         required: true
         models:
           - testimonials_section
+        label: Test
+  login_model:
+    type: object
+    label: login_model
