@@ -1,6 +1,5 @@
 ---
 id: '9'
-price: '400.00'
 title: Fusce sagittis
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/93770207_2919868801426269_4918792148779794432_n.jpg
