@@ -5,7 +5,7 @@ sections:
     section_id: store_section
   - type: featured_products_section
     section_id: featured_products_section
-    title: Best sellers
+    title: Mas populares
     icon: true
     featured_products:
       - src/pages/products/plant1.md
