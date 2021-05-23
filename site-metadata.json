@@ -20,11 +20,6 @@
             "title": "Sobre nosotros",
             "url": "/about",
             "style": "link"
-        },
-        {
-            "title": "FAQ",
-            "url": "/faq",
-            "style": "link"
         }
     ],
     "title": "Planty",
