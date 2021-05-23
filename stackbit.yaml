@@ -620,6 +620,6 @@ models:
     fields:
       - name: login_modelssss
         type: list
-        label: ''
+        label: action
         items:
           type: string
