@@ -619,6 +619,7 @@ models:
     label: login_model
     fields:
       - name: ''
-        type: model
-        models:
-          - action
+        type: list
+        label: ''
+        items:
+          type: string
