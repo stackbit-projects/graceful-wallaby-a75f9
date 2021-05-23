@@ -39,7 +39,7 @@ sections:
           name: Mariel avila
         text: Son unos genios.. me encanta como cortan
       - author:
-          name: Major Payne
+          name: Héctor Jesús Gutiérrez
           location: 'VA, USA'
         text: son unos capos. Buena atención
   - type: promotion_section
