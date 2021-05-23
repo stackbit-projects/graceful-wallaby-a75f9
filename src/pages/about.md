@@ -6,7 +6,13 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: Barberia Lorentino
-    subtitle: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n\n"
+    subtitle: >+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vehicula
+      tellus quis malesuada varius. Proin accumsan fermentum augue vitae
+      consequat. Etiam ut augue rhoncus, blandit risus et, efficitur nulla.
+      Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque
+      quis nunc et urna pellentesque rhoncus quis ut sapien.
+
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
