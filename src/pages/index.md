@@ -40,7 +40,6 @@ sections:
         text: Son unos genios.. me encanta como cortan
       - author:
           name: Héctor Jesús Gutiérrez
-          location: 'VA, USA'
         text: son unos capos. Buena atención
   - type: promotion_section
     section_id: promotion_section
