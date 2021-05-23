@@ -617,3 +617,6 @@ models:
   login_model:
     type: object
     label: login_model
+    fields:
+      - name: ''
+        type: string
