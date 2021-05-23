@@ -7,9 +7,9 @@ sections:
     background_image: images/photo-1590540179852-2110a54f813a.jpg
     background_image_opacity: 65
     content: |
-      # Some random text
+      # Barberia Lorentino
 
-      Turnos disponibles
+      Solicita tu turnos #covid
     actions:
       - title: Ver catalogo
         url: /store
