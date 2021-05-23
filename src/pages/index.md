@@ -33,7 +33,7 @@ sections:
       - src/pages/category/cactuses.md
   - type: testimonials_section
     section_id: testimonials_section
-    title: Testimonios
+    title: Opiniones
     testimonials:
       - author:
           name: Mariel avila
