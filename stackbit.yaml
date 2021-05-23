@@ -620,6 +620,5 @@ models:
     fields:
       - name: ''
         type: list
-        label: ''
         items:
           type: string
