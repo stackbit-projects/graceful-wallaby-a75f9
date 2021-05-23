@@ -3,7 +3,7 @@ id: '9'
 title: Fusce sagittis
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/93770207_2919868801426269_4918792148779794432_n.jpg
-default_original_image: images/plant9-lg.jpg
+default_original_image: images/93770207_2919868801426269_4918792148779794432_n.jpg
 featured: true
 order: 9
 category: src/pages/category/cactuses.md
