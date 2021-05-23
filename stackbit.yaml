@@ -611,4 +611,5 @@ models:
       - name: test
         type: model
         required: true
-        models: []
+        models:
+          - testimonials_section
