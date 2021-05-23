@@ -1,6 +1,5 @@
 ---
 id: '2'
-price: '99.00'
 title: Integer porta
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/79673166_2669599963119822_7793317441056014336_n.jpg
