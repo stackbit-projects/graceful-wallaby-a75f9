@@ -33,6 +33,7 @@ seo:
       value: images/plant7-lg.jpg
       relativeUrl: true
 template: product
+featured: true
 ---
 
 # Sed consectetur
