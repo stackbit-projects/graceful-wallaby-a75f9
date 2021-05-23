@@ -1,5 +1,5 @@
 ---
-title: Otros
+title: Novedosos
 order: 2
 seo:
   title: Cactuses
