@@ -3,7 +3,7 @@ id: '6'
 title: Donec finibus
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/59295149_2226842654062224_9051233144950226944_n.jpg
-default_original_image: images/plant6-lg.jpg
+default_original_image: images/59295149_2226842654062224_9051233144950226944_n.jpg
 order: 6
 category: src/pages/category/bigplants.md
 seo:
