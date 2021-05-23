@@ -608,5 +608,6 @@ models:
     layout: login
     hideContent: true
     fields:
-      - name: ''
+      - name: test
         type: string
+        required: true
