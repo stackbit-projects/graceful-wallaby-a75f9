@@ -46,7 +46,7 @@ sections:
     title: Saca tu turno ahora
     subtitle: from $149.99
     image: images/103415204_3058766594203155_3155016059337296175_n.jpg
-    background_image: images/Logo-light.jpg
+    background_image: images/leaf.svg
     cta:
       title: Quiero mi turno
       url: /store
