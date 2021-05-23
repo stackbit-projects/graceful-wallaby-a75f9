@@ -3,7 +3,7 @@ id: '4'
 title: Cras molestie
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/89254803_2830590620354088_5735574390221832192_n.jpg
-default_original_image: images/plant4-lg.jpg
+default_original_image: images/89254803_2830590620354088_5735574390221832192_n.jpg
 order: 4
 category: src/pages/category/cactuses.md
 seo:
