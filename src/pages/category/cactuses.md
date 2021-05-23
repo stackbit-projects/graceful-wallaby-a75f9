@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Mas ...
 order: 2
 seo:
   title: Cactuses
